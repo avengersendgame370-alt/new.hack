@@ -1,0 +1,11 @@
+{
+  "name": "vitalsense-frontend",
+  "version": "1.0.0",
+  "description": "Frontend client for VitalSense AI",
+  "scripts": {
+    "start": "serve -p 8000"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
